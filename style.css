@@ -25,6 +25,7 @@ body {
     background-color: #94a3b8;
     grid-template-columns: 4fr;
     grid-auto-columns: 1fr;
+    padding: 10px;
 }
 
 .home-logo {
